@@ -26,7 +26,7 @@
     "eventemitter2": "6.4.4",
     "flatiron": "~0.4.3",
     "forever-monitor": "^3.0.3",
-    "mkdirp": "^0.5.5",
+    "mkdirp": "^0.5.6",
     "nssocket": "^0.6.0",
     "object-assign": "^4.1.1",
     "prettyjson": "^1.2.1",
